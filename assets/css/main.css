@@ -2256,6 +2256,9 @@ body > article {
 #top {
   padding: 10em 0 10em 0;
   text-align: left;
+  
+
+  
 }
 
 #top .image {
@@ -2276,6 +2279,9 @@ body > article {
 #top p {
   font-size: 1.5em;
   line-height: 1.75em;
+  /* background-color: #383838; */
+  /* background-color: #353535;
+  padding-left: 10px; */
 }
 
 #top p a {
