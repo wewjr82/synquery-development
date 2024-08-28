@@ -2605,3 +2605,11 @@ body > article {
     margin-top: 0;
   }
 }
+
+.hidden {
+  display: none;
+  visibility: hidden;
+  position: absolute;
+  left: -9999px;
+}
+
